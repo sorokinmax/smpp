@@ -6,8 +6,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ajankovic/smpp"
-	"github.com/ajankovic/smpp/pdu"
+	"github.com/sorokinmax/smpp"
+	"github.com/sorokinmax/smpp/pdu"
 )
 
 var (
